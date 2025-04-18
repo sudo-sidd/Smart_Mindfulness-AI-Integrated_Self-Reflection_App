@@ -67,7 +67,7 @@ yarn-error.log
 
 env/
 etc/aau_token
-Datasets/goemotions
-Datasets/empathetic_dialogues
-Datasets/emobank.csv.zip
-Models/bert-base-uncased
+Backend/Datasets/goemotions
+Backend/Datasets/empathetic_dialogues
+Backend/Datasets/emobank.csv.zip
+Backend/Models/bert-base-uncased
